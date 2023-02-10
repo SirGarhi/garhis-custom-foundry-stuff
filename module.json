@@ -1,0 +1,38 @@
+{
+    "id": "garhis-custom-stuff",
+    "name": "garhis-custom-stuff",
+    "title": "Garhi's Custom Stuff",
+    "description": "A collection of items, spells, and features designed and built by Garhi.",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Garhi",
+            "discord": "Garhi#3438",
+            "url": "https://www.garhisgrotto.com/"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "garhis-custom-stuff",
+            "label": "Garhi's Stuff",
+            "path": "./packs/garhis-custom-stuff.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "garhis-custom-journals",
+            "label": "Garhi's Custom Journals",
+            "path": "./packs/garhis-custom-journals.db",
+            "type": "JournalEntry"
+        }
+    ],
+	"url": "https://github.com/SirGarhi/garhis-custom-foundry-stuff",
+    "manifest": "",
+    "download": ""
+  }
