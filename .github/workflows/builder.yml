@@ -130,8 +130,6 @@ jobs:
       - name: Update Release With Files
         id: create-version-release
         uses: ncipollo/release-action@v1
-        permissions:
-          contents: write
         with:
           allowUpdates: true
           artifacts: './module.json, ./module.zip'
