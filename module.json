@@ -20,16 +20,22 @@
     "packs": [
         {
             "name": "garhis-custom-stuff",
-            "label": "Garhi's Stuff",
+            "label": "Garhi's Items/Features/Spells",
             "path": "./packs/garhis-custom-stuff.db",
             "type": "Item",
             "system": "dnd5e"
         },
         {
             "name": "garhis-custom-journals",
-            "label": "Garhi's Custom Journals",
+            "label": "Garhi's Descriptions",
             "path": "./packs/garhis-custom-journals.db",
             "type": "JournalEntry"
+        },
+		{
+            "name": "garhis-custom-macros",
+            "label": "Garhi's Macros",
+            "path": "./packs/garhis-custom-macros.db",
+            "type": "Macro"
         }
     ],
 	"url": "#{URL}#",
