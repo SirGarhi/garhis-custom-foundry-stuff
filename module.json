@@ -19,6 +19,14 @@
     },
     "packs": [
         {
+            "name": "garhis-custom-actors",
+            "label": "Garhi's Actors",
+            "path": "./packs/garhis-custom-actors.db",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+
+        {
             "name": "garhis-custom-stuff",
             "label": "Garhi's Items/Features/Spells",
             "path": "./packs/garhis-custom-stuff.db",
