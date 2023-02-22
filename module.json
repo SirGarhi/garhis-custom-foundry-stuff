@@ -17,6 +17,25 @@
         "minimum": "0.8.6",
         "verified": "10"
     },
+	"relationships": {
+		"systems": [
+			{
+			"id": "dnd5e",
+			"type": "system",
+				"compatibility": {
+					"minimum": "2.0.3"
+				}
+			}
+		],
+		"requires": [
+			{ "id": "midi-qol", "type": "module" },
+			{ "id": "dae", "type": "module" },
+			{ "id": "dfreds-convenient-effects", "type": "module", },
+			{ "id": "ActiveAuras", "type": "module", },
+			{ "id": "times-up", "type": "module", },
+			{ "id": "warpgate", "type": "module", }
+		]
+	},
     "packs": [
         {
             "name": "garhis-custom-actors",
