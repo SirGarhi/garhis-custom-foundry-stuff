@@ -30,10 +30,10 @@
 		"requires": [
 			{ "id": "midi-qol", "type": "module" },
 			{ "id": "dae", "type": "module" },
-			{ "id": "dfreds-convenient-effects", "type": "module", },
-			{ "id": "ActiveAuras", "type": "module", },
-			{ "id": "times-up", "type": "module", },
-			{ "id": "warpgate", "type": "module", }
+			{ "id": "dfreds-convenient-effects", "type": "module" },
+			{ "id": "ActiveAuras", "type": "module" },
+			{ "id": "times-up", "type": "module" },
+			{ "id": "warpgate", "type": "module" }
 		]
 	},
     "packs": [
