@@ -35,7 +35,8 @@
 			{ "id": "times-up", "type": "module", "compatibility": {} },
 			{ "id": "warpgate", "type": "module", "compatibility": {} },
 			{ "id": "lib-wrapper", "type": "module", "compatibility": {} },
-			{ "id": "socketlib", "type": "module", "compatibility": {} }
+			{ "id": "socketlib", "type": "module", "compatibility": {} },
+			{ "id": "effectmacro", "type": "module", "compatibility": {} }
 		]
 	},
     "packs": [
